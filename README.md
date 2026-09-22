@@ -12,23 +12,28 @@
 
 🎓 Prefinal Year **B.Tech IT Student**
 🏫 **St. Joseph's Institute of Technology**
+
 📘 Currently mastering **Data Structures & Algorithms**
-💻 Building projects with **Java, Python & Web Technologies**
 
 🚀 Passionate about:
 
-* Solving Data Structures & Algorithms problems
+* Cracking tough algorithms
 * Building full-stack applications
-* Learning backend development with Spring Boot
-* Exploring AI & practical applications
-* Contributing to open-source projects
+* Open-source contributions
+* AI & practical projects
 
-🌱 Currently learning **JavaScript, Spring Boot & Full-Stack Development**
+⚡ Fun Fact:
+I can spend more time understanding why a bug exists than actually fixing it 😄
 
 🔗 Connect with me:
 
-* [LinkedIn](https://www.linkedin.com/in/swetha-s-a2aaba32a/)
-* [LeetCode](https://leetcode.com/u/swethasivakumaran/)
+<a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Swetha%20S-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/swethasivakumaran/">
+  <img src="https://img.shields.io/badge/LeetCode-Swetha%20S-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
 
 ---
 
@@ -36,83 +41,32 @@
 
 ### 🚀 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
 </p>
-
----
-
-### 🌐 Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,spring" />
-</p>
-
----
 
 ### 🧰 Tools & IDEs
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,streamlit" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,streamlit" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swethasivakumaran18-creator&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethasivakumaran18-creator&layout=compact&hide_border=true" height="180"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swethasivakumaran18-creator&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
+</p>
 
 ---
 
 ## 💡 Coding Profiles
 
-<div align="center">
+<p align="center">
+  <a href="https://leetcode.com/u/swethasivakumaran/">
+    <img src="https://leetcard.jacoblin.cool/swethasivakumaran?theme=light&font=Karma&ext=heatmap" width="500"/>
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/swethasivakumaran/">
-<img src="https://leetcard.jacoblin.cool/swethasivakumaran?theme=light&font=Karma&ext=heatmap" width="500"/>
-</a>
-
-</div>
-
----
-
-## 🚀 Open Source
-
-🎓 **Open Source Connect India – Campus Lead 2026**
-
-Currently exploring open-source development through:
-
-* Git & GitHub
-* Issues & Discussions
-* Branches & Pull Requests
-* Code Reviews
-* Collaborative Development
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-|                Project                | Description                                                       |
-| :-----------------------------------: | :---------------------------------------------------------------- |
-| 🎨 **Image Colour Palette Extractor** | Extract dominant colours from images using Python & Streamlit     |
-|   🚨 **Emergency Response Platform**  | Full-stack platform for emergency incident reporting and response |
-|   📝 **Java OOP Blogging Platform**   | Blogging platform built using Java OOP concepts                   |
-
-</div>
-
----
-
-<div align="center">
-
-### 🌱 Learn • Build • Contribute
-
-</div>
 
