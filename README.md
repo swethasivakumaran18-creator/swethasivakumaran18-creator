@@ -4,23 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:172554&height=300&section=header&text=Swetha%20S&fontSize=78&fontColor=00E5FF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=B.Tech+Information+Technology+Student;Java+%7C+DSA+%7C+Full+Stack+Development;Open+Source+Contributor;Always+Learning+%26+Building" />
 
 </div>
 
 <br>
 
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=swethasivakumaran18-creator&label=PROFILE+VIEWS&color=000000&style=for-the-badge"/>
-
-</p>
-
-<br>
 
 <!-- ===================== ABOUT ME ===================== -->
 
@@ -54,13 +43,9 @@ I enjoy breaking down difficult problems into smaller, simpler ones.
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/swethasivakumaran/">
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
