@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:172554&height=300&section=header&text=Swetha%20S&fontSize=78&fontColor=00E5FF&fontAlignY=45&animation=fadeIn&desc=&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:172554&height=300&section=header&text=Swetha%20S&fontSize=78&fontColor=A855F7&fontAlignY=45&animation=fadeIn&desc=&descAlignY=65" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=B.Tech+Information+Technology+Student;Java+%7C+DSA+%7C+Full+Stack+Development;Open+Source+Contributor;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=B.Tech+Information+Technology+Student;Java+%7C+DSA+%7C+Full+Stack+Development;Open+Source+Contributor;Always+Learning+%26+Building" />
 
 </div>
 
