@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:172554&height=300&section=header&text=Swetha%20S&fontSize=78&fontColor=A855F7&fontAlignY=45&animation=fadeIn&desc=&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:172554&height=300&section=header&text=Swetha%20S&fontSize=78&fontColor=00E5FF&fontAlignY=45&animation=fadeIn" width="100%"/>
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=B.Tech+Information+Technology+Student;Java+%7C+DSA+%7C+Full+Stack+Development;Open+Source+Contributor;Always+Learning+%26+Building" />
 
@@ -16,7 +16,7 @@
 
 <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=swethasivakumaran18-creator&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=swethasivakumaran18-creator&label=PROFILE+VIEWS&color=000000&style=for-the-badge"/>
 
 </p>
 
@@ -46,25 +46,31 @@ I enjoy breaking down difficult problems into smaller, simpler ones.
 
 <br>
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
+
+<p align="left">
 
 <a href="https://github.com/swethasivakumaran18-creator">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/swethasivakumaran/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
 
-<br><br>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/swethasivakumaran/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="40"/>
+</a>
+
+</p>
+
+<br>
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 # 💻 Tech Stack
 
@@ -77,17 +83,17 @@ I enjoy breaking down difficult problems into smaller, simpler ones.
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=c" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=cpp" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=html" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js" height="75"/>
 
 </p>
@@ -103,15 +109,15 @@ I enjoy breaking down difficult problems into smaller, simpler ones.
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=vscode" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=github" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=linux" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=streamlit" height="75"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=spring" height="75"/>
 
 </p>
@@ -119,8 +125,6 @@ I enjoy breaking down difficult problems into smaller, simpler ones.
 <br>
 
 ---
-
-<!-- ===================== GITHUB STATS ===================== -->
 
 # 📊 GitHub Stats
 
@@ -130,7 +134,7 @@ I enjoy breaking down difficult problems into smaller, simpler ones.
 
 <img src="https://img.shields.io/github/followers/swethasivakumaran18-creator?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=555555"/>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://img.shields.io/github/stars/swethasivakumaran18-creator?label=STARS&style=for-the-badge&color=8B5CF6&labelColor=555555"/>
 
@@ -140,61 +144,71 @@ I enjoy breaking down difficult problems into smaller, simpler ones.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swethasivakumaran18-creator&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swethasivakumaran18-creator&show_icons=true&hide_border=true&rank_icon=github&theme=dark&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethasivakumaran18-creator&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethasivakumaran18-creator&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" height="180"/>
 
 </p>
 
 <br>
 
 ---
-
-<!-- ===================== CODING PROFILES ===================== -->
 
 # 💡 Coding Profiles
 
 <br>
 
-<p align="center">
+<!-- LEETCODE CARD -->
+
+<div align="center">
 
 <a href="https://leetcode.com/u/swethasivakumaran/">
 
-<img src="https://leetcard.jacoblin.cool/swethasivakumaran?theme=dark&font=Karma&ext=heatmap" width="600"/>
+<img src="https://leetcard.jacoblin.cool/swethasivakumaran?theme=dark&ext=heatmap" width="600"/>
 
 </a>
 
-</p>
+</div>
 
-<br>
+<br><br>
 
-<!-- PROFILE BUTTONS -->
+<!-- CODING PROFILE BUTTONS -->
 
-<p align="center">
+<div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://leetcode.com/u/swethasivakumaran/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" width="150"/>
 </a>
+</td>
 
-&nbsp;
+<td width="20"></td>
 
-<a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
+<td align="center">
 <a href="https://github.com/swethasivakumaran18-creator">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" width="150"/>
 </a>
+</td>
 
-</p>
+<td width="20"></td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 <br>
 
 ---
-
-<!-- ===================== OPEN SOURCE ===================== -->
 
 # 🌐 Open Source
 
@@ -214,8 +228,6 @@ Currently learning and contributing through:
 <br>
 
 ---
-
-<!-- ===================== PROJECTS ===================== -->
 
 # 🚀 Projects
 
@@ -251,7 +263,7 @@ A blogging platform built to practice Java Object-Oriented Programming concepts.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1500&color=00E5FF&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Contribute;Keep+Learning+%E2%80%A2+Keep+Building;One+Problem+at+a+Time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Contribute;Keep+Learning+%E2%80%A2+Keep+Building;One+Problem+at+a+Time" />
 
 <br><br>
 
