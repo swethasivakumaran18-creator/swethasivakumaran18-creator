@@ -4,8 +4,6 @@
 
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=B.Tech+Information+Technology+Student;Java+%7C+DSA+%7C+Full+Stack+Development;Open+Source+Contributor;Always+Learning+%26+Building" alt="Typing SVG" /> </a>
 
-<p> <a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"> </a> <a href="https://leetcode.com/u/swethasivakumaran/"> <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white"> </a> </p>
-
 </div>
 
 ## 👩‍💻 About Me
