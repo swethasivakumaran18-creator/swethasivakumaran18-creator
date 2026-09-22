@@ -2,72 +2,144 @@
 
 # Swetha S
 
-### B.Tech Information Technology Student | Java • DSA • Full Stack • Open Source
+### B.Tech Information Technology Student | Developer | Open Source Contributor
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+projects%2C+learning+by+doing;Solving+DSA+problems;Exploring+Full+Stack+Development;Learning+Open+Source+one+PR+at+a+time" />
-
-<br><br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/swethasivakumaran18-creator">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/swethasivakumaran/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://github.com/swethasivakumaran18-creator">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👩‍💻 About Me
 
-> B.Tech Information Technology student focused on building projects,
-> improving my DSA skills, and exploring full-stack development.
-> Currently learning JavaScript and working towards contributing
-> to open-source projects through GSSoC and Open Source Connect India.
+* 🎓 B.Tech Information Technology student at **St. Joseph's Institute of Technology**
+* 💻 Currently strengthening my **Java & Data Structures and Algorithms** skills
+* 🌱 Learning **JavaScript, Spring Boot & Full Stack Development**
+* 🤝 Exploring **Open Source contributions**
+* 🚀 Interested in building practical software projects
+* 🎯 Currently preparing for **placements**
 
 ---
 
-## `$ tech-stack`
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
 </p>
 
 ### Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,spring,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,js,spring" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit,postgres" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,streamlit" />
 </p>
 
 ---
 
-## `$ currently-learning`
+## 📚 Currently Learning
 
 ```text
-Java
- ├── DSA
- ├── Problem Solving
- └── OOP
+Java              ███████████████░░░
+Data Structures   ██████████████░░░░
+Algorithms        ████████████░░░░░░
+JavaScript        ████████░░░░░░░░░░
+Spring Boot       ██████░░░░░░░░░░░░
+Full Stack        ██████░░░░░░░░░░░░
+```
 
-JavaScript
- └── Full Stack Development
+---
 
-Open Source
- ├── Git & GitHub
- ├── Issues
- ├── Pull Requests
- └── Code Reviews
+## 💻 Coding
+
+### LeetCode
+
+I regularly practice **Data Structures & Algorithms** and solve problems on LeetCode.
+
+<a href="https://leetcode.com/u/swethasivakumaran/">
+  <img src="https://img.shields.io/badge/LeetCode-swethasivakumaran-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+---
+
+## 🌐 Open Source
+
+Currently exploring and contributing to open-source projects.
+
+* 🌱 Learning the complete Git & GitHub contribution workflow
+* 🔀 Working with issues, branches and pull requests
+* 🤝 Exploring projects through **Open Source Connect India**
+* 🎓 **Campus Lead – Open Source Connect India 2026**
+
+---
+
+## 🚀 Projects
+
+### 🎨 Image Colour Palette Extractor
+
+A Python + Streamlit application that extracts dominant colour palettes from images.
+
+**Tech:** Python • Streamlit
+
+---
+
+### 🚨 Emergency Response Platform
+
+A full-stack platform designed for reporting and managing emergency incidents.
+
+**Tech:** HTML • CSS • JavaScript • FastAPI • PostgreSQL • SQLAlchemy
+
+---
+
+### 📝 Java OOP Blogging Platform
+
+A Java-based blogging platform built to practice object-oriented programming concepts such as classes, objects, inheritance and encapsulation.
+
+**Tech:** Java • OOP
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=swethasivakumaran18-creator&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swethasivakumaran18-creator&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=swethasivakumaran18-creator&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/swetha-s-a2aaba32a/">
+<img src="https://img.shields.io/
